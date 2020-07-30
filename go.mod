@@ -1,3 +1,3 @@
-module github.com/HattieWebb/QraTest/v0
+module qratest.hkukb.com
 
 go 1.14
