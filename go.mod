@@ -1,3 +1,3 @@
-module github.com/HattieWebb/QraTest/v100
+module github.com/HattieWebb/QraTest/wpk
 
 go 1.14
